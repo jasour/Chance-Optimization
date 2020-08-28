@@ -8,7 +8,11 @@ Semidefinite Programming for Chance Optimization
 In this work, “chance optimization” problems are introduced, where one aims at maximizing the probability of a set defined by polynomial inequalities. These problems are, in general, nonconvex and computationally hard. With the objective of developing systematic numerical procedures to solve such problems, a sequence of convex relaxations based on the theory of measures and moments is provided, whose sequence of optimal values is shown to converge to the optimal value of the original problem. Indeed, we provide a sequence of semidefinite programs of increasing dimension which can arbitrarily approximate the solution of the original problem. To be able to efficiently solve the resulting large-scale semidefinite relaxations, a first-order augmented Lagrangian algorithm is implemented. Numerical examples are presented to illustrate the computational performance of the proposed approach.
 
 
+**More Examples:**
 
+https://github.com/jasour/rarnop19/tree/master/Lecture7_ChanceOptimization
+
+Lecture 7: https://rarnop.mit.edu/Lectures-Codes
 
 **Publications:**
  

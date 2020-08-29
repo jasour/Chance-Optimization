@@ -1,6 +1,7 @@
 # Chance-Optimization
 Semidefinite Programming for Chance Optimization
 
+Julia Code: https://github.com/jasour/Chance-Optimization-in-Julia
 
 **Description:**
 
